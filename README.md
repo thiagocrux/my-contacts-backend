@@ -1,4 +1,4 @@
-# MyContacts (API)
+# MyContacts (Backend)
 
 API of the MyContacts, a contact agenda app.
 
